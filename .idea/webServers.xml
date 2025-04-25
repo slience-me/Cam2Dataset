@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="d58a6927-ee8e-431c-8a93-70d431a57124" name="ThinkPad">
+        <fileTransfer rootFolder="/home/slienceme" accessType="SFTP" host="192.168.1.103" port="10022" sshConfigId="54ef679d-7b5c-4842-a6a0-abf772801350" sshConfig="slienceme@192.168.1.103:10022 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
