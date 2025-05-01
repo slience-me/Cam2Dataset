@@ -36,7 +36,11 @@ pip install opencv-python tkinter colorlog numpy
    The GUI can be launched by running the script below. It will allow you to configure the directory and specify the number of images you want to collect.
 
    ```bash
-   python image_collection_tool.py
+   # for windows
+   python main_win.py
+   
+   # for linux
+   python main_linux.py
    ```
 
 2. **Choose the Save Directory:**

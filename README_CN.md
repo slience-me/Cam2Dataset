@@ -31,7 +31,8 @@ pip install opencv-python numpy tkinter colorlog
 
 ## 使用方法
 
-1. 运行 `main.py` 启动图像采集器。
+1. 运行 `main_win.py` 启动图像采集器(windows版本)。
+运行 `main_linux.py` 启动图像采集器(linux版本)。
 
 2. 在图形界面中，用户可以：
     - 输入要采集的图像数量（每个原始图像将会生成多个增强版本，按比例生成）。
